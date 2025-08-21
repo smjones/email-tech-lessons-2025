@@ -43,7 +43,7 @@ Participants may be given accessed to a set of VMs where they can configure and 
 
 This may be more suitable for organized group activities, like a high school or college class, or a conference tutorial.
 
-### BYO Server
+### BYO Server {#byoserver}
 
 Participants may have a Virtual Private Server (VPS), or set up a Raspberry Pi or similar small computer, or host one or more VMs on their own "homelab" server.
 
